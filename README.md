@@ -1,5 +1,3 @@
-The provided code constitutes a comprehensive and structured approach to implementing Reinforcement Learning (RL) techniques within a simulated environment, specifically designed for educational and research purposes. It outlines the setup, execution, and evaluation of RL algorithms on two distinct environments: the "Empty Environment" and the "Key Environment." The project is structured to provide hands-on experience with key RL concepts, algorithm implementation, hyperparameter tuning, and performance evaluation. Below is a detailed README that explains the various components and steps involved in the project.
-
 ### Project Overview
 
 This project explores the application of Reinforcement Learning (RL) algorithms in two simulated grid environments: 
