@@ -58,6 +58,3 @@ This repository and the projects it contains were developed as part of the Reinf
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
